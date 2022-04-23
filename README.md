@@ -17,24 +17,24 @@ Wei Zhong
 - EDA and visualisation 
 - Data-Driven Insights and recommendations
 - Presentation Slides 
-- 
+
 Kris 
 - Problem Formulation
 - Data Preparation and cleaning
 - EDA and visualisation 
 - Presentation Slides
-- 
+
 Bryan
 - Problem Formulation 
 - EDA and visualisation
 - Machine Learning 
 - Presentation Slides 
 
-Special Thanks for guidance for this project to : 
+Special Thanks for guidance for this project to: 
 Song Nan 
 Dr. Sourav 
 
-References : 
+References: 
 https://medium.com/analytics-vidhya/market-basket-analysis-association-rule-mining-with-visualizations-cda24d537019
 https://github.com/LearningChampion/Machine-Learning/blob/master/Market%20Basket%20Analysis.ipynb
 https://www.kaggle.com/code/annadurbanova/market-basket-optimization-apriori-practice
