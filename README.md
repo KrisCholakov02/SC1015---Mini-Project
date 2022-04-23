@@ -9,8 +9,8 @@ To run the entire project :
 upload these 3 data files 
 1. data.csv 
 2. businesstransactions.csv
-3. mldata.csv 
-Since the data filed are too big to be uploaded into github, we have uploaded it onto shared folder.
+3. mldata.csv\n
+Since the data filed are too big to be uploaded into github, we have uploaded it onto shared folder.\n
 Shared folder link: https://entuedu-my.sharepoint.com/:f:/g/personal/kristiya001_e_ntu_edu_sg/EsFySpLofnZGouZ_BA8-XwMBoTvfplagkqvWQzVE8s3dEg?e=xLFEOa
 
 
