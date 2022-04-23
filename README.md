@@ -1,6 +1,6 @@
 # SC1015---Mini-Project
 
-This is our groups data science project. It is on Market Basket Analysis for an E-commerce Store. <br />
+This is our groups data science project. It is on Market Basket Analysis for an E-commerce Store. <br /><br />
 In summary, our project is about recommendation of products in order to increases sales and revenue of the e-commerce store. But through the EDA process, we managed to discover more interesting sub questions which are about Customer Segmentation and Idea on Inventory Management. Through this project we were able to practically suggest products for a customer to purchase after purchasing his/her intended product. 
 
 To run the entire project, upload these 3 data files:<br />
