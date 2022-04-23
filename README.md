@@ -17,11 +17,13 @@ Wei Zhong
 - EDA and visualisation 
 - Data-Driven Insights and recommendations
 - Presentation Slides 
+- 
 Kris 
 - Problem Formulation
 - Data Preparation and cleaning
 - EDA and visualisation 
 - Presentation Slides
+- 
 Bryan
 - Problem Formulation 
 - EDA and visualisation
