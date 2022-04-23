@@ -30,7 +30,7 @@ Bryan
 - Machine Learning 
 - Presentation Slides 
 
-Special Thanks for guidance for this project to: 
+Special Thanks for guidance for this project to: <br />
 Song Nan <br />
 Dr. Sourav 
 
