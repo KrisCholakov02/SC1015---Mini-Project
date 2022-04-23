@@ -11,19 +11,17 @@ Since the data filed are too big to be uploaded into github, we have uploaded it
 Shared folder link: https://entuedu-my.sharepoint.com/:f:/g/personal/kristiya001_e_ntu_edu_sg/EsFySpLofnZGouZ_BA8-XwMBoTvfplagkqvWQzVE8s3dEg?e=xLFEOa
 
 
-Individual Contributions: <br /><br />
+Individual Contributions: <br />
 Wei Zhong 
 - Problem Formulation 
 - EDA and visualisation 
 - Data-Driven Insights and recommendations
 - Presentation Slides 
-<br />
 Kris 
 - Problem Formulation
 - Data Preparation and cleaning
 - EDA and visualisation 
 - Presentation Slides
-<br />
 Bryan
 - Problem Formulation 
 - EDA and visualisation
