@@ -31,7 +31,7 @@ Bryan
 - Presentation Slides 
 
 Special Thanks for guidance for this project to: 
-Song Nan 
+Song Nan <br />
 Dr. Sourav 
 
 References: 
