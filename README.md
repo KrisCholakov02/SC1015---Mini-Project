@@ -23,6 +23,7 @@ Due to the large size of these files, they are hosted in a shared folder accessi
 - **Kristiyan**:
   - Problem Formulation
   - Data Preparation and Cleaning
+  - Machine Learning
   - Exploratory Data Analysis and Visualization
   - Presentation Slides
 
