@@ -1,47 +1,57 @@
-# SC1015---Mini-Project
+# SC1015: Market Basket Analysis for an E-commerce Store
 
-This is our groups data science project. It is on Market Basket Analysis for an E-commerce Store. <br /><br />
-In summary, our project is about recommendation of products in order to increases sales and revenue of the e-commerce store. But through the EDA process, we managed to discover more interesting sub questions which are about Customer Segmentation and Idea on Inventory Management. Through this project we were able to practically suggest products for a customer to purchase after purchasing his/her intended product. 
+## Project Overview
 
-**To run the entire project, upload these 3 data files:**<br />
-1. data.csv 
-2. b_customers_data_transactions.csv
-3. s_customers_data_transactions.csv
-4. s_ml_data.csv
-5. b_ml_data.csv<br /><br />
+Our team conducted a data science project focusing on Market Basket Analysis for an e-commerce store. The primary objective was to recommend products to customers to enhance sales and revenue. During the exploratory data analysis (EDA) phase, we identified additional insights related to customer segmentation and inventory management. These findings enabled us to suggest complementary products to customers based on their initial purchases.
 
-Since the data filed are too big to be uploaded into github, we have uploaded it onto shared folder. <br />
-**Shared folder link:** <br /> https://entuedu-my.sharepoint.com/:f:/g/personal/kristiya001_e_ntu_edu_sg/EsFySpLofnZGouZ_BA8-XwMBoTvfplagkqvWQzVE8s3dEg?e=xLFEOa
+## Data Files
 
+To run the entire project, please ensure the following data files are uploaded:
 
-**Individual Contributions:** <br />
+1. `data.csv`
+2. `b_customers_data_transactions.csv`
+3. `s_customers_data_transactions.csv`
+4. `s_ml_data.csv`
+5. `b_ml_data.csv`
 
-Wei Zhong 
-- Problem Formulation 
-- EDA and visualisation 
-- Data-Driven Insights and recommendations
-- Presentation Slides 
+Due to the large size of these files, they are hosted in a shared folder accessible via the following link:
 
-Kris 
-- Problem Formulation
-- Data Preparation and cleaning
-- EDA and visualisation 
-- Presentation Slides
+[Shared Folder Link](https://entuedu-my.sharepoint.com/:f:/g/personal/kristiya001_e_ntu_edu_sg/EsFySpLofnZGouZ_BA8-XwMBoTvfplagkqvWQzVE8s3dEg?e=xLFEOa)
 
-Bryan
-- Problem Formulation 
-- EDA and visualisation
-- Machine Learning 
-- Presentation Slides 
+## Individual Contributions
 
-**Special Thanks for guidance for this project to:** <br />
-- Song Nan <br />
-- Dr. Sourav 
+- **Kristiyan**:
+  - Problem Formulation
+  - Data Preparation and Cleaning
+  - Exploratory Data Analysis and Visualization
+  - Presentation Slides
 
-**References:** <br />
-- https://medium.com/analytics-vidhya/market-basket-analysis-association-rule-mining-with-visualizations-cda24d537019
-- https://github.com/LearningChampion/Machine-Learning/blob/master/Market%20Basket%20Analysis.ipynb
-- https://www.kaggle.com/code/annadurbanova/market-basket-optimization-apriori-practice
-- https://www.kaggle.com/code/akhilram7/affinity-analysis-of-market-basket
-- https://www.kaggle.com/code/benroshan/market-basket-analysis 
-- https://goldinlocks.github.io/Market-Basket-Analysis-in-Python/
+- **Wei Zhong**:
+  - Problem Formulation
+  - Exploratory Data Analysis and Visualization
+  - Data-Driven Insights and Recommendations
+  - Presentation Slides
+
+- **Bryan**:
+  - Problem Formulation
+  - Exploratory Data Analysis and Visualization
+  - Machine Learning
+  - Presentation Slides
+
+## Acknowledgments
+
+We extend our gratitude to the following individuals for their guidance and support throughout this project:
+
+- **Song Nan**
+- **Dr. Sourav**
+
+## References
+
+The following resources were instrumental in guiding our analysis and methodology:
+
+- [Market Basket Analysis: Association Rule Mining with Visualizations](https://medium.com/analytics-vidhya/market-basket-analysis-association-rule-mining-with-visualizations-cda24d537019)
+- [Market Basket Analysis on GitHub](https://github.com/LearningChampion/Machine-Learning/blob/master/Market%20Basket%20Analysis.ipynb)
+- [Market Basket Optimization on Kaggle](https://www.kaggle.com/code/annadurbanova/market-basket-optimization-apriori-practice)
+- [Affinity Analysis of Market Basket on Kaggle](https://www.kaggle.com/code/akhilram7/affinity-analysis-of-market-basket)
+- [Market Basket Analysis by Ben Roshan](https://www.kaggle.com/code/benroshan/market-basket-analysis)
+- [Market Basket Analysis in Python](https://goldinlocks.github.io/Market-Basket-Analysis-in-Python/)
